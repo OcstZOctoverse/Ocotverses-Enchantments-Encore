@@ -2,7 +2,7 @@
 <br><br><br>
 
 ## 📖 Description
-**Enchantments Encore** adds 140+ enchantments to the game which can be obtained in any vanilla way. Some are obtainable in loot chests or in an enchanting table, others are tradable at villager. Even mobs can spawn with some of the new enchantments on their equipment. Also editted by Octoverse very cool.
+**Enchantments Encore** adds 140+ enchantments to the game which can be obtained in any vanilla way. Some are obtainable in loot chests or in an enchanting table, others are tradable at villager. Even mobs can spawn with some of the new enchantments on their equipment. Also edited by Octoverse. Everything except for this sentence and the one before are the only written by me on this read me file.
 
 The datapack also adds a unique Structure which has always a guaranteed enchantment from this datapack in it.
 <br><br>
